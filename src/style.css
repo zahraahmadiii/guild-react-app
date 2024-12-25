@@ -6,7 +6,7 @@ body {
   background-color: #f5f5f5; 
 }
 
-.app {
+.layOut {
   width: 100vw;
   height: 100vh;
   display: flex;
