@@ -10,8 +10,20 @@ function App() {
         <p className='title'>ثبت نام شاغلین در کسب و کارها</p>
       </div>
       <div className='content'>
-        <div className='progress-bar'>
-       
+        <div className='top'>
+           <div className='progress-wrapper'>
+            <ul>
+              <li>
+              <span>1</span>
+              </li>
+              <li>
+              <span>2</span>
+              </li>
+              <li>   
+              <span>3</span>
+              </li>
+            </ul>
+           </div>
         </div>
        <MultiStep/>
       </div>

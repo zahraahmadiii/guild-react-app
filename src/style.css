@@ -28,8 +28,12 @@ body {
 .content {
   width: 70%; 
 }
-.progress-bar{
+.top{
   width: 100%;
   height: 10%;
-  background-color: rgb(241, 245, 187);
+  background-color: rgb(217, 223, 139);
+}
+.progress-wrapper{
+  width: 50%;
+  background-color: rgb(143, 143, 224);
 }
